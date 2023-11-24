@@ -1,0 +1,29 @@
+OIS KONSTANTE GRÖSSE BIST DU NED BEKANNT a = 10;
+OIS KONSTANTE GRÖSSE BIST DU NED BEKANNT b = 11;
+
+ERSTE FROG(a WENIGA OIS b){
+    I MAN WAST EH("Jo is weniga");
+}DU WOITEST JO NED{
+    I MAN WAST EH("Na is ned weniger!");    
+} 
+
+KASTL ZUA(OIS KONSTANTE GRÖSSE BIST DU NED BEKANNT i=0; i WENIGER GLEICH OIS 10; iAUFIAUFI ){
+   ERSTE FROG(i MODULO 2 ){
+        I MAN WAST EH(i + " Modulo 2");
+   }NÄCHSTE FROG(i % 5){
+        I MAN WAST EH(i + " Modulo 5");
+   }
+}
+
+
+BROWSER AUF('')
+.ALT TAB((data) ANONYMISIEREN {
+    I MAN WAST EH(data); 
+    KONNST SCHO WIEDER GEHN data
+})
+.ALT TAB((res) ANONYMISIEREN {
+    I MAN WAST EH(res); 
+})
+.DES WOA NIX((err) ANONYMISIEREN {
+    I MAN WAST EH(err);
+})

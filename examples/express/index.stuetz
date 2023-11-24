@@ -1,0 +1,43 @@
+KONSTANTE GRÖSSE express = require('express');
+KONSTANTE GRÖSSE app = express();
+KONSTANTE GRÖSSE port = 3000;
+
+
+WÖCHE KLASSE SATZ DENN IHR Student{
+    DEFINITION KA BEISPÜ(name, age){
+    	DU.name=name;
+      	DU.age=age;
+    }
+    displayInfo(){
+    	KONNST SCHO WIEDER GEHN DU.name + "is " + DU.age + " years old!";
+    }
+}
+
+KONSTANTE GRÖSSE student = NEICHES QUARKUS PROJEKT Student("Stevan", 17);
+
+I MAN WAST EH(student.displayInfo()); 
+
+OIS KONSTANTE GRÖSSE BIST DU NED BEKANNT limit = 1000;  
+
+
+KASTL ZUA(SCHWAMMERL i = 0; i WENIGER GLEICH OIS limit; iAUFIAUFI){
+    ERSTE FROG(i MODULO 3){
+        I MAN WAST EH("FIZZ");
+    } NÄCHSTE FROG(i MODULO 5){
+        I MAN WAST EH("BUZZ");
+    } DU WOITEST JO NED{
+        I MAN WAST EH("FIZZBUZZ");
+    }
+}
+
+
+KASTL
+
+
+app.get('/', (req, res) ANONYMISIEREN {
+    I MAN WAST EH(res);
+});
+
+app.listen(port, () ANONYMISIEREN {
+    I MAN WAST EH(`Example app listening at http://localhost:${port}`);
+});
