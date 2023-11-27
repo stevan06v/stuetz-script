@@ -30,10 +30,6 @@ KASTL ZUA(SCHWAMMERL i = 0; i WENIGER GLEICH OIS limit; iAUFIAUFI){
     }
 }
 
-
-KASTL
-
-
 app.get('/', (req, res) ANONYMISIEREN {
     I MAN WAST EH(res);
 });
