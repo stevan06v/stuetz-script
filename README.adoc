@@ -2,3 +2,67 @@
 
 - Think better... Think greater... Think STÜTZ
 
+|=============================|
+| Value                        | Key                        |
+|=============================|
+| let                          | OIS KONSTANTE GRÖSSE BIST DU NED BEKANNT |
+| const                        | KONSTANTE GRÖSSE           |
+| null                         | DES WOA JETZT OBA NIX      |
+| new                          | NEICHES QUARKUS PROJEKT    |
+| else                         | DU WOITEST JO NED          |
+| var                          | SCHWAMMERL                 |
+| function                     | BERUFSOPTION               |
+| return                       | KONNST SCHO WIEDER GEHN    |
+| fetch                        | BROWSER AUF                |
+| then                         | ALT TAB                    |
+| if                           | ERSTE FROG                 |
+| else if                      | NÄCHSTE FROG               |
+| for                          | KASTL ZUA                  |
+| do                           | JO RED AMOI                |
+| while                        | WIEDERHOLUNG               |
+| continue                     | DUA WEIDA                  |
+| in                           | IS DES IM GITHUB           |
+| switch                       | WOS IS MIT DIR              |
+| case                         | I SCHAU NUR                |
+| break                        | HEAST AUF                  |
+| default                      | NORMALERWEISE MOCH I DES SO|
+| throw                        | DU BÖSER DU                |
+| try                          | DONN ZAG MOI WOS KONNST    |
+| catch                        | DES WOA NIX                |
+| finally                      | OBA JEDENFOIS              |
+| delete                       | I DAWIAG DI                |
+| false                        | NA OBA NED WOA             |
+| true                         | HOST SCHO RECHT            |
+| instanceof                   | WIE HASTN DU               |
+| typeof                       | WOS IS A                   |
+| await                        | ÄHH ÄHH                    |
+| async                        | DES ERWOAT I MA            |
+| console.log                  | I MAN WAST EH              |
+| console.debug                | SCHAU NED SO PENETRANT WEG |
+| console.error                | NICHT GENÜGEND             |
+| process.exit                 | DO KUMMT NIX MEHR          |
+| ===                          | KANNST DA VUASTÖHN         |
+| ==                           | DES GEHT SI SCHO AUS       |
+| &&                           | UND NU WOS                 |
+| ||                           | OBA                         |
+| <                            | WENIGA OIS                 |
+| =                            | WENNST MANST               |
+| ++                           | AUFI AUFI                  |
+| +                            | AUFI                       |
+| --                           | WENIGER WENIGER            |
+| *                            | NIMM OIS                   |
+| /                            | WOS WAS I                   |
+| %                            | MODULO                     |
+| class                        | WÖCHE KLASSE SATZ DENN IHR |
+| constructor                  | DEFINITION KA BEISPÜ       |
+| <=                           | WENIGER GLEICH OIS         |
+| >=                           | GRÖSSER GLEICH OIS         |
+| >                            | GRÖSSER OIS                |
+| !                            | IS SCHO FOISCH             |
+| -                            | WENIGER                     |
+| ?                            | NA STIMMT SCHO              |
+| :                            | DANN HOID NED              |
+| =>                           | ANONYMISIEREN              |
+| alert                        | SCHWACHONI                 |
+| this                         | DU                         |
+|=============================|
