@@ -13,7 +13,7 @@ WÖCHE KLASSE SATZ DENN IHR Student{
     }
 }
 
-KONSTANTE GRÖSSE student = NEICHES QUARKUS PROJEKT Student("Stevan", 17);
+KONSTANTE GRÖSSE student = NEICHES QUARKUS PROJEKT Student("Schwammerl", 34);
 
 I MAN WAST EH(student.displayInfo()); 
 
